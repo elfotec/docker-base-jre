@@ -46,3 +46,7 @@ docker buildx build --platform linux/amd64,linux/arm64 -f eclipse-temurin-11-jre
 
 docker buildx imagetools inspect elfotec/docker-base-jre:11-jre-focal
 ```
+
+A imagem pode ser consultada em: 
+
+- https://hub.docker.com/repository/docker/elfotec/docker-base-jre
